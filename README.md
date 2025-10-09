@@ -33,7 +33,8 @@ Haz clic en el siguiente enlace para visualizar el documento:
 [🌍 Acceder al Mundo del Juego](https://drive.google.com/file/d/19YmwhkWHaEABBuoJ-NJBOB-0mPrQuRIK/view?usp=sharing)
 
 #### 🎥 Tutoriales
--  Tutorial 1  
+-  Tutorial 1 :
+-  [TUtorial](https://docs.google.com/document/d/1c7A6KG73do8gQArpZacgzKSsIoIrC_KvK1lWzYmcQUg/edit?usp=sharing)
 
 ---
 
