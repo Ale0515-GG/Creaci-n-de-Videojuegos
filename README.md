@@ -1,10 +1,10 @@
 # 🎮 Creación de Videojuegos  
 **Profe:** Barrón Rodríguez Gabriel  
-**Elaborado por:** *Alejandra Galván*  
-
+**Elaborado por:** *Mayra Alejandra Galván Garcia*  
+**2D**
 ---
 
-## 🌟 Presentación
+## 🌟 Bienvenido
 
 <p align="center">
   <img src="https://media.es.wired.com/photos/66c4d1d1f37d94352f34926f/4:3/w_1912,h_1434,c_limit/GettyImages-2112446687.jpg" width="80%" alt="Creación de Videojuegos">
@@ -17,19 +17,14 @@
 ## 🧩 Contenido del curso
 
 ### 🕹️ Unidad 1 – Fundamentos del Desarrollo de Videojuegos
-- Introducción al desarrollo de videojuegos.  
-- Historia y evolución de la industria.  
-- Herramientas y motores gráficos más utilizados.  
-- Conceptos de jugabilidad, narrativa y mecánicas.  
+- En construccion...
 
 ---
 
 ### 🚀 Unidad 2 – Diseño y Producción de Videojuegos
 
 #### 📘 Instrumentos de Evaluación
-- Actividades prácticas y teóricas.  
-- Evaluación basada en proyectos.  
-- Rúbricas de desempeño técnico y creativo.  
+- En construccion 
 
 #### 🧠 Prácticas
 
@@ -38,17 +33,12 @@ Haz clic en el siguiente enlace para visualizar el documento:
 [🌍 Acceder al Mundo del Juego](https://drive.google.com/file/d/19YmwhkWHaEABBuoJ-NJBOB-0mPrQuRIK/view?usp=sharing)
 
 #### 🎥 Tutoriales
-- Creación de escenas interactivas.  
-- Uso básico de Unity y Unreal Engine.  
-- Programación de movimientos y físicas.  
+-  Tutorial 1  
 
 ---
 
 ### 🧱 Unidad 3 – Publicación y Optimización
-- Exportación de proyectos.  
-- Pruebas y control de calidad.  
-- Publicación en plataformas (PC, web, móvil).  
-- Marketing y presentación de videojuegos.  
+- En construccion...
 
 ---
 
