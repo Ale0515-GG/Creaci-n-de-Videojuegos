@@ -82,7 +82,8 @@ Desarrollar las competencias necesarias para **crear videojuegos funcionales**, 
 
 | Nº | Título | Descripción | Enlace |
 |----|---------|-------------|--------|
-| 01 | *Creación del Mundo del Juego* | Diseño y construcción del entorno base del videojuego (escenario, colisiones, iluminación y ambientación). | [🎬 Ver Video](https://drive.google.com/file/d/19YmwhkWHaEABBuoJ-NJBOB-0mPrQuRIK/view?usp=sharing) |
+| 01 | *Creación del Mundo del Juego* | Diseño y construcción del entorno base del videojuego (escenario, colisiones, iluminación y ambientación). | [📘 Ver Documento](https://drive.google.com/file/d/19YmwhkWHaEABBuoJ-NJBOB-0mPrQuRIK/view?usp=sharing) |
+| 02 | *Crear un Menú Básico con Unity* | Creación e implementación de un menú funcional con botones e interacción UI básica. | [📘 Ver Documento](https://docs.google.com/document/d/1A3tXg7e__dCqHY3cxJmbuQXfqR-yfNoK9qanzOdlwB0/edit?usp=sharing) <br> 🎬 [Ver Video](https://drive.google.com/file/d/1AhKUs95mFqhHcR6Lb5eejEG29eTI2-J0/view?usp=sharing) |
 
 ---
 
