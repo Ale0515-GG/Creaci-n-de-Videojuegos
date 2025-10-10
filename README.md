@@ -17,11 +17,14 @@
 
 1. [🎯 Objetivo General](#-objetivo-general)  
 2. [🧩 Contenido del Curso](#-contenido-del-curso)  
-   - [🕹️ Unidad 1 – Fundamentos del Desarrollo de Videojuegos](#-unidad-1--fundamentos-del-desarrollo-de-videojuegos)  
+   - [🕹️ Unidad 1 – Introducción al desarrollo de aplicaciones de videojuegos](#-unidad-1--fundamentos-del-desarrollo-de-videojuegos)  
      - [🧠 Prácticas](#-prácticas-de-la-unidad-1)  
      - [🎥 Tutoriales](#-tutoriales-de-la-unidad-1)  
      - [📝 Instrumentos de Evaluación](#-instrumentos-de-evaluación-de-la-unidad-1)
-   - [🚀 Unidad 2 – Diseño y Producción de Videojuegos](#-unidad-2--diseño-y-producción-de-videojuegos)  
+   - [🚀 Unidad 2 – Programación orientada a objetos para videojuegos](#-unidad-2--diseño-y-producción-de-videojuegos)  
+     - [🧠 Prácticas](#-prácticas-de-la-unidad-2)  
+     - [🎥 Tutoriales](#-tutoriales-de-la-unidad-2)  
+     - [📝 Instrumentos de Evaluación](#-instrumentos-de-evaluación-de-la-unidad-2)
    - [🧱 Unidad 3 – Publicación y Optimización](#-unidad-3--publicación-y-optimización)
 3. [📂 Estructura del Proyecto Unity](#-estructura-del-proyecto-unity)  
 4. [📬 Contacto](#-contacto)
@@ -38,7 +41,7 @@ Desarrollar las competencias necesarias para **crear videojuegos funcionales**, 
 
 ---
 
-### 🕹️ Unidad 1 – Fundamentos del Desarrollo de Videojuegos  
+### 🕹️ Unidad 1 – Introducción al desarrollo de aplicaciones de videojuegos 
 
 #### 🧠 Prácticas de la Unidad 1
 
@@ -73,24 +76,27 @@ Desarrollar las competencias necesarias para **crear videojuegos funcionales**, 
 
 ---
 
-### 🚀 Unidad 2 – Diseño y Producción de Videojuegos  
+### 🚀 Unidad 2 – Programación orientada a objetos para videojuegos
 
-#### 📘 Instrumentos de Evaluación
-- En construcción...
-
-#### 🎮 Prácticas
-
-**🌍 Mundo del Juego**  
-[📘 Ver Documento](https://drive.google.com/file/d/19YmwhkWHaEABBuoJ-NJBOB-0mPrQuRIK/view?usp=sharing)
-
----
-
-#### 🎥 Tutoriales  
+#### 🧠 Prácticas de la Unidad 2  
 
 | Nº | Título | Descripción | Enlace |
 |----|---------|-------------|--------|
-| 01 | *Creación del Mundo del Juego* | Configuración del proyecto y entorno base del videojuego. | [📘 Ver Documento](https://docs.google.com/document/d/1c7A6KG73do8gQArpZacgzKSsIoIrC_KvK1lWzYmcQUg/edit?usp=sharing) |
-| 02 | *Movimiento y Control del Jugador* | Implementación del movimiento 2D y sistema de control mediante `Rigidbody2D` e `Input System`. | [📘 Ver Documento](https://docs.google.com/document/d/1WOPnd_sTnCS9vSaMgMato6oubLXMxcWJYLG6PXl_kzw/edit?usp=sharing) <br> 🎬 [Ver Video en Drive](https://drive.google.com/file/d/16_sc_XR4q1tBbzdJSByt0VyuNC1EaiVM/view?usp=sharing) |
+| 01 | *Creación del Mundo del Juego* | Diseño y construcción del entorno base del videojuego (escenario, colisiones, iluminación y ambientación). | [📘 Ver Documento](https://drive.google.com/file/d/19YmwhkWHaEABBuoJ-NJBOB-0mPrQuRIK/view?usp=sharing) |
+
+---
+
+#### 🎥 Tutoriales de la Unidad 2  
+
+| Nº | Título | Descripción | Enlace |
+|----|---------|-------------|--------|
+| 01 | *Creación del Player y Enemy* | Implementación de los personajes principales (jugador y enemigo), incluyendo control de movimiento y animaciones básicas. | [📘 Ver Documento](https://docs.google.com/document/d/1c7A6KG73do8gQArpZacgzKSsIoIrC_KvK1lWzYmcQUg/edit?usp=sharing) |
+| 02 | *Movimiento y Control del Jugador* | Implementación del sistema de movimiento 2D con `Rigidbody2D` e `Input System`, detección de colisiones y animaciones. | [📘 Ver Documento](https://docs.google.com/document/d/1WOPnd_sTnCS9vSaMgMato6oubLXMxcWJYLG6PXl_kzw/edit?usp=sharing) <br> 🎬 [Ver Video en Drive](https://drive.google.com/file/d/16_sc_XR4q1tBbzdJSByt0VyuNC1EaiVM/view?usp=sharing) |
+
+---
+
+#### 📝 Instrumentos de Evaluación de la Unidad 2  
+- En construcción...
 
 ---
 
@@ -99,7 +105,7 @@ Desarrollar las competencias necesarias para **crear videojuegos funcionales**, 
 
 ---
 
-## 🧩 Estructura del Proyecto Unity
+## 📂 Estructura del Proyecto Unity
 
 ```bash
 📁 Proyecto_Videojuego_2D/
