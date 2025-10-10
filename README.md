@@ -82,7 +82,7 @@ Desarrollar las competencias necesarias para **crear videojuegos funcionales**, 
 
 | Nº | Título | Descripción | Enlace |
 |----|---------|-------------|--------|
-| 01 | *Creación del Mundo del Juego* | Diseño y construcción del entorno base del videojuego (escenario, colisiones, iluminación y ambientación). | [📘 Ver Documento](https://drive.google.com/file/d/19YmwhkWHaEABBuoJ-NJBOB-0mPrQuRIK/view?usp=sharing) |
+| 01 | *Creación del Mundo del Juego* | Diseño y construcción del entorno base del videojuego (escenario, colisiones, iluminación y ambientación). | [🎬 Ver Video](https://drive.google.com/file/d/19YmwhkWHaEABBuoJ-NJBOB-0mPrQuRIK/view?usp=sharing) |
 
 ---
 
