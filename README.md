@@ -17,11 +17,11 @@
 
 1. [🎯 Objetivo General](#-objetivo-general)  
 2. [🧩 Contenido del Curso](#-contenido-del-curso)  
-   - [🕹️ Unidad 1 – Introducción al desarrollo de aplicaciones de videojuegos](#-unidad-1--fundamentos-del-desarrollo-de-videojuegos)  
+   - [🕹️ Unidad 1 – Introducción al desarrollo de aplicaciones de videojuegos](#-unidad-1--introducción-al-desarrollo-de-aplicaciones-de-videojuegos)  
      - [🧠 Prácticas](#-prácticas-de-la-unidad-1)  
      - [🎥 Tutoriales](#-tutoriales-de-la-unidad-1)  
      - [📝 Instrumentos de Evaluación](#-instrumentos-de-evaluación-de-la-unidad-1)
-   - [🚀 Unidad 2 – Programación orientada a objetos para videojuegos](#-unidad-2--diseño-y-producción-de-videojuegos)  
+   - [🚀 Unidad 2 – Programación orientada a objetos para videojuegos](#-unidad-2--programación-orientada-a-objetos-para-videojuegos)  
      - [🧠 Prácticas](#-prácticas-de-la-unidad-2)  
      - [🎥 Tutoriales](#-tutoriales-de-la-unidad-2)  
      - [📝 Instrumentos de Evaluación](#-instrumentos-de-evaluación-de-la-unidad-2)
@@ -50,7 +50,7 @@ Desarrollar las competencias necesarias para **crear videojuegos funcionales**, 
 | 01 | *Narrativa* | Comprensión de la estructura narrativa en videojuegos. | [📘 Ver Documento](https://docs.google.com/document/d/1eS1a-z2P1JsllMVBAJLvVJ-afI9SgW-ng_0pEjZ6i1k/edit?usp=sharing) |
 | 02 | *Tipos de Jugadores* | Identificación de los diferentes tipos de jugadores según su motivación. | [📘 Ver Documento](https://docs.google.com/document/d/1RGZOw6HEFZsHkB1btWJqLbvwU75rqM42BPu9cZt_Fe0/edit?usp=sharing) |
 | 03 | *Equipo de Trabajo* | Organización de roles dentro del desarrollo de videojuegos. | [📘 Ver Documento](https://docs.google.com/document/d/1R9Wo1-XYFYFHfFwQ_4g2D_8hJT1pSDp6GgjveMSP5aQ/edit?usp=sharing) |
-| 04 | *Actividad 1* | Actividad práctica relacionada con la planificación del proyecto. | [🎥 Ver Archivo](https://drive.google.com/file/d/1JZIErGGYRIIBIhOT54VSmAQ-pogCOWy6/view?usp=sharing) |
+| 04 | *Actividad 1* | Actividad práctica relacionada con la planificación del proyecto. | [📘 Ver Documento](https://drive.google.com/file/d/1JZIErGGYRIIBIhOT54VSmAQ-pogCOWy6/view?usp=sharing) |
 
 ---
 
@@ -58,12 +58,12 @@ Desarrollar las competencias necesarias para **crear videojuegos funcionales**, 
 
 | Nº | Tema | Descripción | Enlace |
 |----|------|-------------|--------|
-| 01 | *El proceso de creación de juegos* | Etapas esenciales del desarrollo de videojuegos. | [🎬 Ver Video](https://drive.google.com/file/d/1Y93yPAF9OoST0zJByAzzCzZ6csWRp4lO/view?usp=sharing) |
+| 01 | *El proceso de creación de juegos* | Etapas esenciales del desarrollo de videojuegos. | [📘 Ver Documento](https://drive.google.com/file/d/1Y93yPAF9OoST0zJByAzzCzZ6csWRp4lO/view?usp=sharing) |
 | 02 | *Proceso de Preproducción* | Planeación y diseño previo al desarrollo. | [📘 Ver Documento](https://docs.google.com/document/d/1QaHDqt_qBeugVx9c6xg3BHWnChUnvs4CE4Z5MYX4mvM/edit?usp=sharing) |
 | 03 | *Tipos de Animación* | Conoce los diferentes estilos y técnicas de animación. | [📘 Ver Documento](https://docs.google.com/document/d/1WMRJVbFJ5TpCe4qHpMlCmEaayojyP5VeHZOCCslUJtA/edit?usp=sharing) |
-| 04 | *Diseña Arte Conceptual* | Creación visual del estilo del videojuego. | [🎥 Ver Archivo](https://drive.google.com/file/d/1_xs0AoAZ232d5klbheguqG8w3GRMLGTF/view?usp=sharing) |
+| 04 | *Diseña Arte Conceptual* | Creación visual del estilo del videojuego. | [📘 Ver Documento](https://drive.google.com/file/d/1_xs0AoAZ232d5klbheguqG8w3GRMLGTF/view?usp=sharing) |
 | 05 | *Guion del Juego* | Elaboración del guion narrativo para el videojuego. | [📘 Ver Documento](https://docs.google.com/document/d/1pvjFPZqUXT4EnwtbnnDikBiP_5WIEb-bHlPrUhTewf8/edit?usp=sharing) |
-| 06 | *Storyboard* | Representación visual del flujo narrativo. | [🎥 Ver Archivo](https://drive.google.com/file/d/1qF_YekLwRgzi66uoqbyQxpdkpqd99S1Y/view?usp=sharing) |
+| 06 | *Storyboard* | Representación visual del flujo narrativo. | [📘 Ver Documento](https://drive.google.com/file/d/1qF_YekLwRgzi66uoqbyQxpdkpqd99S1Y/view?usp=sharing) |
 
 ---
 
@@ -91,7 +91,7 @@ Desarrollar las competencias necesarias para **crear videojuegos funcionales**, 
 | Nº | Título | Descripción | Enlace |
 |----|---------|-------------|--------|
 | 01 | *Creación del Player y Enemy* | Implementación de los personajes principales (jugador y enemigo), incluyendo control de movimiento y animaciones básicas. | [📘 Ver Documento](https://docs.google.com/document/d/1c7A6KG73do8gQArpZacgzKSsIoIrC_KvK1lWzYmcQUg/edit?usp=sharing) |
-| 02 | *Movimiento y Control del Jugador* | Implementación del sistema de movimiento 2D con `Rigidbody2D` e `Input System`, detección de colisiones y animaciones. | [📘 Ver Documento](https://docs.google.com/document/d/1WOPnd_sTnCS9vSaMgMato6oubLXMxcWJYLG6PXl_kzw/edit?usp=sharing) <br> 🎬 [Ver Video en Drive](https://drive.google.com/file/d/16_sc_XR4q1tBbzdJSByt0VyuNC1EaiVM/view?usp=sharing) |
+| 02 | *Movimiento y Control del Jugador* | Implementación del sistema de movimiento 2D con `Rigidbody2D` e `Input System`, detección de colisiones y animaciones. | [📘 Ver Documento](https://docs.google.com/document/d/1WOPnd_sTnCS9vSaMgMato6oubLXMxcWJYLG6PXl_kzw/edit?usp=sharing) <br> 🎬 [Ver Video](https://drive.google.com/file/d/16_sc_XR4q1tBbzdJSByt0VyuNC1EaiVM/view?usp=sharing) |
 
 ---
 
