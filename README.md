@@ -79,7 +79,8 @@ Desarrollar las competencias necesarias para **crear videojuegos funcionales**, 
 ### 🚀 Unidad 2 – Programación orientada a objetos para videojuegos 
 
 #### Evidecia de los viveres
-![WhatsApp Image 2025-10-17 at 18 23 27_f93d2c44](https://github.com/user-attachments/assets/c4ca7a63-9318-4f85-b37a-9ac614f970d5)
+![WhatsApp Image 2025-10-17 at 18 26 54_2185b3ba](https://github.com/user-attachments/assets/9c4d3da7-3d0f-433a-ac4a-1d85594df228)
+
 
 #### 🧠 Prácticas de la Unidad 2 
 
