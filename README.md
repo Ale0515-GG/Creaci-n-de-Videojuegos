@@ -76,14 +76,18 @@ Desarrollar las competencias necesarias para **crear videojuegos funcionales**, 
 
 ---
 
-### 🚀 Unidad 2 – Programación orientada a objetos para videojuegos
+### 🚀 Unidad 2 – Programación orientada a objetos para videojuegos 
 
-#### 🧠 Prácticas de la Unidad 2  
+#### Evidecia de los viveres
+![WhatsApp Image 2025-10-17 at 18 23 27_f93d2c44](https://github.com/user-attachments/assets/c4ca7a63-9318-4f85-b37a-9ac614f970d5)
+
+#### 🧠 Prácticas de la Unidad 2 
 
 | Nº | Título | Descripción | Enlace |
 |----|---------|-------------|--------|
 | 01 | *Creación del Mundo del Juego* | Diseño y construcción del entorno base del videojuego (escenario, colisiones, iluminación y ambientación). | [📘 Ver Documento](https://drive.google.com/file/d/19YmwhkWHaEABBuoJ-NJBOB-0mPrQuRIK/view?usp=sharing) |
 | 02 | *Crear un Menú Básico con Unity* | Creación e implementación de un menú funcional con botones e interacción UI básica. | [📘 Ver Documento](https://docs.google.com/document/d/1A3tXg7e__dCqHY3cxJmbuQXfqR-yfNoK9qanzOdlwB0/edit?usp=sharing) <br> 🎬 [Ver Video](https://drive.google.com/file/d/1AhKUs95mFqhHcR6Lb5eejEG29eTI2-J0/view?usp=sharing) |
+
 
 ---
 
